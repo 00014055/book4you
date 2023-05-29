@@ -23,7 +23,7 @@ To run the website locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/your-username/local-online-bookstore.git
+git clone https://github.com/00014055/book4you.git
 ```
 2. Open the project folder in your preferred code editor.
 
