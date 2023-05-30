@@ -1,6 +1,9 @@
 # Local Online Bookstore Website Book4You
 This repository contains coursework for the Web Technology module, a local online bookstore website. The website consists of four pages designed to provide a convenient and enjoyable user experience when browsing and buying books online. This README contains an overview of the features and functions of the website. Actual company website https://book4you.uz/ 
 
+- hosted: https://splashy-massive-knave.glitch.me
+- github: https://github.com/00014055/book4you.git
+
 ## Features
 1. Home Page: The home page serves as the landing page for the website, providing an overview of the online bookstore and highlighting statistics, history about the company. features and a link to instagram. From here, users can quickly navigate to other sections of the website using the navigator.
 
